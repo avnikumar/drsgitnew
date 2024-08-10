@@ -1,0 +1,3 @@
+//echo '<pre>';print_r($doctorInfo);die;
+//$lastQuery = $model->getLastQuery();
+// echo $lastQuery;die;

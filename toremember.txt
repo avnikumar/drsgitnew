@@ -1,0 +1,6 @@
+When you deploy to your production server, don’t forget to run the following command:
+
+composer install --no-dev
+
+
+php spark serve //to start development server
