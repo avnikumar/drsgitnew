@@ -1,1 +1,1 @@
-Sushant I Love You
+<?php echo "Sushant I Love You"; ?>
