@@ -1,3 +1,2 @@
 #!/bin/bash
-yum install -y httpd
-
+service apache2 start
